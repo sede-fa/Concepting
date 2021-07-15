@@ -1,2 +1,2 @@
 # Concepting
-Repository for tranfwerring code for system concepting work
+Repository for transferring code for system concepting work
