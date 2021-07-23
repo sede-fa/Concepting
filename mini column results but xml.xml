@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object name="MSTR-01" type="Material Stream">
+    <Property name="Temperature" value="316.15" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="6.75908" units="kg/s" />
+    <Property name="Molar Flow" value="150" units="mol/s" />
+    <Property name="Volumetric Flow" value="0.00878937" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetone" value="0.5" units="" />
+    <Property name="Methanol" value="0.5" units="" />
+    <Property name="Density (Mixture)" value="769.006" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="45.0605" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-756.284" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-2.11263" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-34078.6" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-95.1963" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.167623" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetone" value="0.607865" units="" />
+    <Property name="Methanol" value="0.392135" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetone" value="0.5" units="" />
+    <Property name="Methanol" value="0.5" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetone" value="0.5" units="" />
+    <Property name="Methanol" value="0.5" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetone" value="0.5" units="" />
+    <Property name="Methanol" value="0.5" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+  </Object>
+  <Object name="MSTR-02" type="Material Stream">
+    <Property name="Temperature" value="331.544" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="2.8756" units="kg/s" />
+    <Property name="Molar Flow" value="74.7222" units="mol/s" />
+    <Property name="Volumetric Flow" value="0.00381194" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetone" value="0.247416" units="" />
+    <Property name="Methanol" value="0.752584" units="" />
+    <Property name="Density (Mixture)" value="754.367" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="38.4839" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-893.086" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-2.53625" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-34369.4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-97.6049" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.174567" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetone" value="0.247416" units="" />
+    <Property name="Methanol" value="0.752584" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetone" value="0.247416" units="" />
+    <Property name="Methanol" value="0.752584" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+  </Object>
+  <Object name="MSTR-03" type="Material Stream">
+    <Property name="Temperature" value="328.107" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="393.046" units="kg/s" />
+    <Property name="Molar Flow" value="7625.25" units="mol/s" />
+    <Property name="Volumetric Flow" value="0.521313" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Density (Mixture)" value="753.954" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="51.5454" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-586.607" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1.63256" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-30236.9" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-84.1507" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.154621" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+  </Object>
+  <Object name="MSTR-04" type="Material Stream">
+    <Property name="Temperature" value="328.105" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="393.046" units="kg/s" />
+    <Property name="Molar Flow" value="7625.25" units="mol/s" />
+    <Property name="Volumetric Flow" value="0.521311" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Density (Mixture)" value="753.957" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="51.5454" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-586.612" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1.63257" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-30237.1" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-84.1515" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.154622" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetone" value="0.759454" units="" />
+    <Property name="Methanol" value="0.240546" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+  </Object>
+  <Object name="MSTR-05" type="Material Stream">
+    <Property name="Temperature" value="328.105" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="393.046" units="kg/s" />
+    <Property name="Molar Flow" value="7625.25" units="mol/s" />
+    <Property name="Volumetric Flow" value="0.521311" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Density (Mixture)" value="753.957" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="51.5454" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="-586.612" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="-1.63257" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="-30237.1" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="-84.1515" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.154622" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Acetone" value="0.759454" units="" />
+    <Property name="Methanol" value="0.240546" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Acetone" value="0.749061" units="" />
+    <Property name="Methanol" value="0.250939" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Acetone" value="0" units="" />
+    <Property name="Methanol" value="0" units="" />
+  </Object>
+  <Object name="ESTR-01" type="Energy Stream">
+    <Property name="Energy Flow" value="819378" units="kW" />
+  </Object>
+  <Object name="ESTR-02" type="Energy Stream">
+    <Property name="Energy Flow" value="819648" units="kW" />
+  </Object>
+  <Object name="VALV-01" type="Adiabatic Valve">
+    <Property name="Calculation Mode" value="0" units="" />
+    <Property name="Pressure Drop" value="0" units="Pa" />
+    <Property name="Outlet Pressure" value="101325" units="Pa" />
+    <Property name="Temperature Drop" value="-0.00189513" units="K." />
+    <Property name="Kv(max)" value="100" units="" />
+    <Property name="Opening" value="50" units="" />
+  </Object>
+  <Object name="DC-01" type="Distillation Column">
+    <Property name="Condenser Pressure" value="101325" units="Pa" />
+    <Property name="Reboiler Pressure" value="101325" units="Pa" />
+    <Property name="Condenser Pressure Drop" value="0" units="Pa" />
+    <Property name="Reflux Ratio" value="2.36" units="" />
+    <Property name="Distillate Molar Flow" value="7625.25" units="mol/s" />
+    <Property name="Condenser Duty" value="819378" units="kW" />
+    <Property name="Reboiler Duty" value="-819648" units="kW" />
+    <Property name="Number of Stages" value="12" units="" />
+    <Property name="Stage_Pressure_1" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_2" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_3" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_4" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_5" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_6" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_7" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_8" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_9" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_10" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_11" value="101325" units="Pa" />
+    <Property name="Stage_Pressure_12" value="101325" units="Pa" />
+    <Property name="Stage_Efficiency_1" value="1" units="" />
+    <Property name="Stage_Efficiency_2" value="1" units="" />
+    <Property name="Stage_Efficiency_3" value="1" units="" />
+    <Property name="Stage_Efficiency_4" value="1" units="" />
+    <Property name="Stage_Efficiency_5" value="1" units="" />
+    <Property name="Stage_Efficiency_6" value="1" units="" />
+    <Property name="Stage_Efficiency_7" value="1" units="" />
+    <Property name="Stage_Efficiency_8" value="1" units="" />
+    <Property name="Stage_Efficiency_9" value="1" units="" />
+    <Property name="Stage_Efficiency_10" value="1" units="" />
+    <Property name="Stage_Efficiency_11" value="1" units="" />
+    <Property name="Stage_Efficiency_12" value="1" units="" />
+    <Property name="Stage_Temperature_1" value="328.107" units="K" />
+    <Property name="Stage_Temperature_2" value="328.104" units="K" />
+    <Property name="Stage_Temperature_3" value="328.11" units="K" />
+    <Property name="Stage_Temperature_4" value="328.12" units="K" />
+    <Property name="Stage_Temperature_5" value="328.131" units="K" />
+    <Property name="Stage_Temperature_6" value="328.147" units="K" />
+    <Property name="Stage_Temperature_7" value="328.162" units="K" />
+    <Property name="Stage_Temperature_8" value="328.254" units="K" />
+    <Property name="Stage_Temperature_9" value="328.458" units="K" />
+    <Property name="Stage_Temperature_10" value="328.913" units="K" />
+    <Property name="Stage_Temperature_11" value="329.865" units="K" />
+    <Property name="Stage_Temperature_12" value="331.544" units="K" />
+    <Property name="Condenser_Specification_Value" value="2.36" units="" />
+    <Property name="Reboiler_Specification_Value" value="269" units="kmol/h" />
+    <Property name="Global_Stage_Efficiency" value="G6" units="" />
+    <Property name="Condenser_Calculated_Value" value="2.36" units="" />
+    <Property name="Reboiler_Calculated_Value" value="74.7222" units="kmol/h" />
+  </Object>
+</Objects>
