@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object name="water_in" type="Material Stream">
+    <Property name="Temperature" value="1073.15" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="1" units="kg/s" />
+    <Property name="Molar Flow" value="60.9186" units="mol/s" />
+    <Property name="Volumetric Flow" value="5.36419" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Hydrogen" value="0.1" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0.9" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Density (Mixture)" value="0.186422" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="16.4153" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="1728.03" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="3.78548" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="28366.1" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="62.14" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.143673" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Hydrogen" value="0.1" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0.9" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Hydrogen" value="NaN" units="" />
+    <Property name="Oxygen" value="NaN" units="" />
+    <Property name="Water" value="NaN" units="" />
+    <Property name="Nitrogen" value="NaN" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Hydrogen" value="1.46378E-160" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+  </Object>
+  <Object name="air_in" type="Material Stream">
+    <Property name="Temperature" value="1073.15" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="1" units="kg/s" />
+    <Property name="Molar Flow" value="34.6616" units="mol/s" />
+    <Property name="Volumetric Flow" value="3.05213" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0.21" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0.79" units="" />
+    <Property name="Density (Mixture)" value="0.32764" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="28.8503" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="837.439" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="1.50305" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="24160.4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="43.3635" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.0727726" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0.21" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0.79" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Hydrogen" value="NaN" units="" />
+    <Property name="Oxygen" value="NaN" units="" />
+    <Property name="Water" value="NaN" units="" />
+    <Property name="Nitrogen" value="NaN" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="1" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="6.23257E-15" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+  </Object>
+  <Object name="water_out" type="Material Stream">
+    <Property name="Temperature" value="1073.15" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="1.00829" units="kg/s" />
+    <Property name="Molar Flow" value="60.9191" units="mol/s" />
+    <Property name="Volumetric Flow" value="5.36423" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Hydrogen" value="0.0915013" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0.908499" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Density (Mixture)" value="0.187966" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="16.5513" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="1716.93" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="3.71644" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="28417.4" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="61.512" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.140536" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Hydrogen" value="0.0915013" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0.908499" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Hydrogen" value="NaN" units="" />
+    <Property name="Oxygen" value="NaN" units="" />
+    <Property name="Water" value="NaN" units="" />
+    <Property name="Nitrogen" value="NaN" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Hydrogen" value="1.32685E-160" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="1" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+  </Object>
+  <Object name="air_out" type="Material Stream">
+    <Property name="Temperature" value="1073.15" units="K" />
+    <Property name="Pressure" value="101325" units="Pa" />
+    <Property name="Mass Flow" value="0.991709" units="kg/s" />
+    <Property name="Molar Flow" value="34.4025" units="mol/s" />
+    <Property name="Volumetric Flow" value="3.02931" units="m3/s" />
+    <Property name="Mixture Molar Fraction" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0.204052" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0.795948" units="" />
+    <Property name="Density (Mixture)" value="0.327371" units="kg/m3" />
+    <Property name="Molecular Weight (Mixture)" value="28.8266" units="kg/kmol" />
+    <Property name="Specific Enthalpy (Mixture)" value="837.841" units="kJ/kg" />
+    <Property name="Specific Entropy (Mixture)" value="1.50151" units="kJ/[kg.K]" />
+    <Property name="Molar Enthalpy (Mixture)" value="24152.1" units="kJ/kmol" />
+    <Property name="Molar Entropy (Mixture)" value="43.2836" units="kJ/[kmol.K]" />
+    <Property name="Thermal Conductivity (Mixture)" value="0.0727356" units="W/[m.K]" />
+    <Property name="Molar Fraction (Vapor)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0.204052" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0.795948" units="" />
+    <Property name="Molar Fraction (Overall Liquid)" value="" units="" />
+    <Property name="Hydrogen" value="NaN" units="" />
+    <Property name="Oxygen" value="NaN" units="" />
+    <Property name="Water" value="NaN" units="" />
+    <Property name="Nitrogen" value="NaN" units="" />
+    <Property name="Molar Fraction (Liquid 1)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="1" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="6.46253E-15" units="" />
+    <Property name="Molar Fraction (Liquid 2)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Aqueous)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+    <Property name="Molar Fraction (Solid)" value="" units="" />
+    <Property name="Hydrogen" value="0" units="" />
+    <Property name="Oxygen" value="0" units="" />
+    <Property name="Water" value="0" units="" />
+    <Property name="Nitrogen" value="0" units="" />
+  </Object>
+  <Object name="ESTR-01" type="Energy Stream">
+    <Property name="Energy Flow" value="1.01208" units="kW" />
+  </Object>
+  <Object name="ESTR-02" type="Energy Stream">
+    <Property name="Energy Flow" value="0" units="kW" />
+  </Object>
+</Objects>
